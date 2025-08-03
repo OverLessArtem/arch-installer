@@ -50,7 +50,7 @@ sudo cp target/release/arch-installer /usr/bin/arch-installer
   ```
   Вывод:
   ```
-  OC: Arch Linux
+  OS: Arch Linux
   Kernel: 6.16.0
   Shell: bash
   DE: KDE
