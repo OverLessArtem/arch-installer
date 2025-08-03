@@ -50,11 +50,11 @@ sudo cp target/release/arch-installer /usr/bin/arch-installer
   ```
   Вывод:
   ```
-  ОС: Arch Linux
-  Ядро: 6.16.0
-  Шелл: bash
+  OC: Arch Linux
+  Kernel: 6.16.0
+  Shell: bash
   DE: KDE
-  Пакеты: pacman 1234, arch-installer 1
+  Packages: pacman 1234, arch-installer 1
   ```
 
 ## Лицензия
